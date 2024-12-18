@@ -1,0 +1,3 @@
+resources:
+  - nodeapp-deployment.yaml
+  - nodeapp-service.yaml

@@ -1,1 +1,1 @@
-# nodejs-kustomize
+# Node.js Kustomize files.
